@@ -19,7 +19,7 @@ Otorgar PERMISOS Full a Carpeta del Nodo
 
 # Uso Como Servidor Independiente 
 
-- Clonar de https://github.com/ChrisQbit/Nodo-Maestro-Criptomoneda.git
+- Clonar de https://github.com/BebaBlockchain/blockchain.git
 - npm install
 
 Si hay problemas en el comando anterior IMPORTANTE - borrar carpeta de node modules y correr de nuevo el comando - npm install
